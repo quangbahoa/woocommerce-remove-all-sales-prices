@@ -41,3 +41,4 @@
 
 ### Note
 - Sample way as simple products.
+- You can using this tutorial to bulk change sale date.
