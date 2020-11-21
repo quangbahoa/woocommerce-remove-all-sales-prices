@@ -12,7 +12,7 @@
 ### Step / Các bước thực hiện
 
 ##### Step 1: Export product / Xuất sản phẩm
-- Go to ALl products click Export `wp-admin/edit.php?post_type=product`
+- Go to All products click Export `wp-admin/edit.php?post_type=product`
 - Xuất toàn bộ sản phẩm tại: `wp-admin/edit.php?post_type=product` 
 
 ##### Step 2: Edit CSV / Sửa file CSV
