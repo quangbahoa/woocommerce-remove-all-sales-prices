@@ -6,6 +6,7 @@
 - Product CSV Import Suite (https://woocommerce.com/products/product-csv-import-suite/)
 
 ### Sample file / File ví dụ
+- Download: https://github.com/quangbahoa/woocommerce-remove-all-sales-prices/blob/main/sample/woocommerce-product-variations-export-sample.csv
 
 
 ### Step / Các bước thực hiện
